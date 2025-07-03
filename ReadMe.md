@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante de ADS<br>👯 Trabalho em uma empresa de tecnologia<br>🤝 Estou em um projeto de desenvolvimento de API para ERPs<br>🌱 Gostaria de aprender Frontend<br>⚡ Nos tempos livres gosto de treinar e andar de bicicleta 
+🔭 Sou estudante de ADS<br>👯 Trabalho em uma empresa de tecnologia<br>🤝 Sou Squad Leader em dois times de Dados<br>🌱 Gostaria de aprender Frontend<br>⚡ Nos tempos livres gosto praticar esportes, sendo eles: musculação, ciclismo, corrida e natação!
 
 
 ## 🌐 Socials:
